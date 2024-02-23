@@ -1,4 +1,4 @@
-# app_contador
+# CounterPlus
 
 A new Flutter project.
 
